@@ -1,0 +1,10 @@
+[23-May-2018 10:08:31 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 10:08:33 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, resource given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 10:09:50 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 16:39:37 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 16:41:41 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 16:42:04 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[23-May-2018 16:49:28 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[25-May-2018 09:41:33 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[25-May-2018 12:38:52 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25
+[25-May-2018 12:39:08 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/pages/object/caregiver.php on line 25

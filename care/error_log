@@ -1,0 +1,1 @@
+[25-May-2018 12:16:48 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/lobotple/public_html/eltonlobo.com/quickvitals.org/care/dbpublic.php on line 3
